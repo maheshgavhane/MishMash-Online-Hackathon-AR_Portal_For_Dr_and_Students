@@ -2,12 +2,12 @@
 
 
 
-##<p align="center"> THEME 5 :- AR/VR/XR (Sub-Catergorie :- Epidemic)</p>
-##<p align="center">Project Title : - AR Portal for Dr and Students (Public Awareness)</p>
+<p align="center"> THEME 5 :- AR/VR/XR (Sub-Catergorie :- Epidemic)</p>
+<p align="center">Project Title : - AR Portal for Dr and Students (Public Awareness)</p>
 
                                             Team Name :- Iotians 
                                           Leader Name :- Sanket Patil
-                
+(underline)               
 
 
   
