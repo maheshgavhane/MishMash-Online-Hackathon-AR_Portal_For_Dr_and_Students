@@ -17,7 +17,7 @@
                                           
 ......................................................................................................"# Screenshots of App #" ......................................................................................................
                                          
-![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
+![image height="42" width="42"](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
 
 ......................................................................................................"# Flowchart Of Project #" .....................................................................................................
 
