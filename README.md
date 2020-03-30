@@ -17,14 +17,15 @@
                                            1) Mimimum Android Version 7.0 or Upper
                                            2) Google Play Services for AR
 ......................................................................................"# Implementation of features in Unity #" ......................................................................................
+   
+                                           1) Plane Finding	
+                                           2) Environmental HDR Lighting	
+                                           3) AR Camera Background	
+                                           4) Basic Light Estimation	
+                                           5) ARCore SDK
 
       
-                                           1) Mobile (Android) App (.apk)
-                                           
-                         Minimum Requirments To Run App :-
-                         
-                                           1) Mimimum Android Version 7.0 or Upper
-                                           2) Google Play Services for AR                                          
+                                                
 ......................................................................................................."# Screenshots of App #" ......................................................................................................
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
