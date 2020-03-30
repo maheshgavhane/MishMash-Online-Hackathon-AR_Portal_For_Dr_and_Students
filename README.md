@@ -8,7 +8,7 @@
 
                                            Project Title : - AR Portal for Dr and Students
                                   Link to Youtube Video  : - https://www.youtube.com/watch?v=gjSRocOFcNU
-                                  [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=gjSRocOFcNU)
+                                  
 
                                         
 
@@ -51,3 +51,4 @@
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/2.PNG)
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=gjSRocOFcNU)
