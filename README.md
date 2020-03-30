@@ -4,14 +4,14 @@
                 
 ................................................................................................................................................................................................................................................................
 
-                                                Project Title : - AR Portal for Dr and Students
-                                       Link to Youtube Video  : - https://www.youtube.com/watch?v=gjSRocOFcNU
+                                           Project Title : - AR Portal for Dr and Students
+                                  Link to Youtube Video  : - https://www.youtube.com/watch?v=gjSRocOFcNU
                                         
 
                          Software Used :-
                                            1) Unity Editor
                                            2) Azure App Services for Unity
-                                           3) Google ARCore
+                                           3) Google ARCore SDK
  
 ....................................................................................................."# Output of Project #" .....................................................................................................
 
