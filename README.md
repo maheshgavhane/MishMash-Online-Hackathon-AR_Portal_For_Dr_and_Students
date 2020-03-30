@@ -2,12 +2,11 @@
                                                Team Name :- Iotians
                                             Leader Name :- Sanket Patil
                 
-.....................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................
 
-                                       Project Title : - AR Portal for Dr and Students
-                                                 "# Link to Youtube Video #"
-                                        https://www.youtube.com/watch?v=gjSRocOFcNU
-
+                                                Project Title : - AR Portal for Dr and Students
+                                       Link to Youtube Video  : - https://www.youtube.com/watch?v=gjSRocOFcNU
+                                        
 
                          Software Used :-
                                            1) Unity Editor
