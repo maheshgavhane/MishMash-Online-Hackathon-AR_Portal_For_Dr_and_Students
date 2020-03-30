@@ -4,7 +4,6 @@
                                             Team Name :- Iotians 
                                           Leader Name :- Sanket Patil
                 
-....................................................................................................................................    
 
   <p align="center">Project Title : - AR Portal for Dr and Students (Public Awareness)</p>
   
