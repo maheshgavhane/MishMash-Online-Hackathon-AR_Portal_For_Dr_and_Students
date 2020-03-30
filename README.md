@@ -1,4 +1,4 @@
-                This repository contains the submission for MishMash-Online-Hackathon- THEME 5 :- AR/VR/XR.
+                This repository contains the submission for MishMash-Online-Hackathon- THEME 5 :- AR/VR/XR (Epidemic)
                                             Team Name :- Iotians
                                             Leader Name :- Sanket Patil
                 
