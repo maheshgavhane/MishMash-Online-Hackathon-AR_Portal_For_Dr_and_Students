@@ -13,10 +13,9 @@
                                      Project Title : - AR Portal for Dr and Students (Public Awareness)
                                
 Software Used :-
+                                           
                                            1) Unity Editor (2018.2.0f2)
-                                           
-                                           2) Azure App Services for Unity
-                                           
+                                           2) Azure App Services for Unity                                      
                                            3) Google ARCore SDK
  
 Output of Project :-
@@ -37,7 +36,7 @@ Implementation of features in Unity :-
                                            6) Motion tracking
                                            7) User interaction
                                            
-......................................................................................................."# Screenshots of App #" ......................................................................................................
+Screenshots of App # :-
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
 
