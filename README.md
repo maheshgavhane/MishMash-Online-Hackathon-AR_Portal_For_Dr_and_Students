@@ -16,7 +16,8 @@
                                            2) Google Play Services for AR
                                           
 ......................................................................................................."# Screenshots of App #" ......................................................................................................
-                                         
+<img src="https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png" width="200" height="400" />
+
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
 
 ......................................................................................................"# Flowchart Of Project #" .....................................................................................................
