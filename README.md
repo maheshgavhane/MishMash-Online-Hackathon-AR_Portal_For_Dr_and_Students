@@ -6,7 +6,7 @@
                 
 ................................................................................................................................................................................................................................................................
 
- <center>  [[           Demo Link to Youtube Video ( Click Here in Order to Watch Youtube Video of Demo )           ]](https://www.youtube.com/watch?v=gjSRocOFcNU) </center>
+ <center>  [[           Demo Link to Youtube Video ( Click Here in Order to Watch Youtube Video of Demo )  ]]</center>(https://www.youtube.com/watch?v=gjSRocOFcNU) 
 
 
                                            Project Title : - AR Portal for Dr and Students
