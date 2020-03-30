@@ -1,15 +1,12 @@
                            `This repository contains the submission for MishMash-Online-Hackathon` 
 
 
-
 <p align="center"> THEME 5 :- AR/VR/XR (Sub-Catergorie :- Epidemic)</p>
 <p align="center">Project Title : - AR Portal for Dr and Students (Public Awareness)</p>
 
                                             Team Name :- Iotians 
-                                          Leader Name :- Sanket Patil
-(underline)               
-
-
+                                          Leader Name :- Sanket Patil             
+<p align="center">-X-X-X-X-X-X-X-</p>
   
  [[ Link to Video of Demo Uploaded on Youtube of our Project   -  ( Click Here in Order to Watch Youtube Video of Demo )]](https://www.youtube.com/watch?v=gjSRocOFcNU) 
 
