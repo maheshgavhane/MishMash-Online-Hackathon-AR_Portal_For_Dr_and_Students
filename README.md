@@ -27,7 +27,7 @@
                                            1) Mimimum Android Version 7.0 or Upper
                                            2) Google Play Services for AR
                                            
-**Implementation of features in Unity :- **
+**Implementation of features in Unity :-**
 
                                            1) Plane Finding	
                                            2) Environmental HDR Lighting	
@@ -50,8 +50,7 @@
 
 
 
-
-**Screenshots of Unity Project :- **
+**Screenshots of Unity Project :-**
 
 
 
