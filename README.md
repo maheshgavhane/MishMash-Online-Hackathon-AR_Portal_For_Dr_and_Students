@@ -1,5 +1,5 @@
    
-   ** This repository contains the submission for MishMash-Online-Hackathon- THEME 5 :- AR/VR/XR (Sub-Catergorie :- Epidemic) **
+   **This repository contains the submission for MishMash-Online-Hackathon- THEME 5 :- AR/VR/XR (Sub-Catergorie :- Epidemic) **
                                           
                                             Team Name :- Iotians 
                                           Leader Name :- Sanket Patil
@@ -44,7 +44,7 @@
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
 
-Flowchart Of Project :-
+**Flowchart Of Project :-**
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/MishMash.jpg)
 
