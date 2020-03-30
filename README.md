@@ -8,6 +8,8 @@
 
                                            Project Title : - AR Portal for Dr and Students
                                   Link to Youtube Video  : - https://www.youtube.com/watch?v=gjSRocOFcNU
+                                  [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=gjSRocOFcNU)
+
                                         
 
                          Software Used :-
