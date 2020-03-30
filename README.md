@@ -1,5 +1,5 @@
    
-    This repository contains the submission for MishMash-Online-Hackathon- THEME 5 :- AR/VR/XR (Sub-Catergorie :- Epidemic) 
+   ** This repository contains the submission for MishMash-Online-Hackathon- THEME 5 :- AR/VR/XR (Sub-Catergorie :- Epidemic) **
                                           
                                             Team Name :- Iotians 
                                           Leader Name :- Sanket Patil
@@ -27,7 +27,7 @@
                                            1) Mimimum Android Version 7.0 or Upper
                                            2) Google Play Services for AR
                                            
-Implementation of features in Unity :- 
+**Implementation of features in Unity :- **
 
                                            1) Plane Finding	
                                            2) Environmental HDR Lighting	
@@ -39,7 +39,7 @@ Implementation of features in Unity :-
                       
                       
                       
-Screenshots of App # :-
+**Screenshots of App # :-**
 
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
@@ -51,7 +51,7 @@ Flowchart Of Project :-
 
 
 
-** Screenshots of Unity Project :-**
+**Screenshots of Unity Project :- **
 
 
 
