@@ -1,4 +1,4 @@
-`This repository contains the submission for MishMash-Online-Hackathon` 
+                         `This repository contains the submission for MishMash-Online-Hackathon` 
 
 
 
@@ -6,7 +6,7 @@
 <p align="center">Project Title : - AR Portal for Dr and Students (Public Awareness)</p>
 
                                             Team Name :- Iotians 
-                                          Leader Name :- Sanket Patil(Underline)
+                                          Leader Name :- Sanket Patil
                 
 
 
