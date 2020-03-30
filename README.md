@@ -1,3 +1,5 @@
+                This repository contains the submission for MishMash-Online-Hackathon- THEME 5 :- AR/VR/XR.
+
 ........................................................................................."# AR_Portal_For_DR_and_Students #" .........................................................................................
 
                          Software Used :-
