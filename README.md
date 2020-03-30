@@ -22,7 +22,7 @@
       
                                            1) Mobile (Android) App (.apk)
                                            
-                         Minimum Requirments To Run App :-
+**Minimum Requirments To Run App :-**
                          
                                            1) Mimimum Android Version 7.0 or Upper
                                            2) Google Play Services for AR
