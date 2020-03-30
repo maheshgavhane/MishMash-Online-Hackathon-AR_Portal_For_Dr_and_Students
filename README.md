@@ -27,7 +27,7 @@ Output of Project :-
                                            1) Mimimum Android Version 7.0 or Upper
                                            2) Google Play Services for AR
                                            
-Implementation of features in Unity :-                                   
+Implementation of features in Unity :- 
                                            1) Plane Finding	
                                            2) Environmental HDR Lighting	
                                            3) AR Camera Background	
@@ -35,17 +35,17 @@ Implementation of features in Unity :-
                                            5) ARCore SDK
                                            6) Motion tracking
                                            7) User interaction
-                                           
+                      
 Screenshots of App # :-
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
 
-......................................................................................................"# Flowchart Of Project #" .....................................................................................................
+Flowchart Of Project :-
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/MishMash.jpg)
 
 
-..........................................................................................."# Screenshots of Unity Project #" ...........................................................................................
+creenshots of Unity Project :-
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/1.PNG)
 
