@@ -33,9 +33,9 @@
                                            3) AR Camera Background	
                                            4) Basic Light Estimation	
                                            5) ARCore SDK
-
-      
-                                                
+                                           6) Motion tracking
+                                           7) User interaction
+                                           
 ......................................................................................................."# Screenshots of App #" ......................................................................................................
 
 ![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/login1.png)
