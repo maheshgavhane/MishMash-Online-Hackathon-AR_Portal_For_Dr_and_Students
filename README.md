@@ -14,7 +14,9 @@
                                
 Software Used :-
                                            1) Unity Editor (2018.2.0f2)
+                                           
                                            2) Azure App Services for Unity
+                                           
                                            3) Google ARCore SDK
  
 Output of Project :-
