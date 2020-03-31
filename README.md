@@ -27,6 +27,10 @@
                          
                                            1) Mimimum Android Version 7.0 or Upper
                                            2) Google Play Services for AR
+                                           3) Supported ABIs
+                                           4) Android API level
+                                           5) OpenGL ES versions
+                                           6) CPU/GPU SoC (System on chip)
                                            
 **Implementation of features in Unity :-**
 
