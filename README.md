@@ -10,8 +10,7 @@
   
  [[ Link to Video of Demo Uploaded on Youtube of our Project   -  ( Click Here in Order to Watch Youtube Video of Demo )]](https://www.youtube.com/watch?v=gjSRocOFcNU) 
 
-
-** APK Link :- https://drive.google.com/open?id=1kXS087QJ8-Ryx4ioNQRMbuL3GqNrXzgH**                                
+[APK Link]](https://drive.google.com/open?id=1kXS087QJ8-Ryx4ioNQRMbuL3GqNrXzgH)                              
                                
 **Software Used :-**
                                            
