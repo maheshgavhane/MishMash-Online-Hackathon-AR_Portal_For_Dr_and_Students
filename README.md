@@ -13,7 +13,7 @@
 [[APK Link]](https://drive.google.com/open?id=1kXS087QJ8-Ryx4ioNQRMbuL3GqNrXzgH)                              
                                
 **Software Used :-**
-                                           
+                                          
                                            1) Unity Editor (2018.2.0f2)
                                            2) Azure App Services for Unity                                      
                                            3) Google ARCore SDK
